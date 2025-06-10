@@ -10,7 +10,9 @@ Undergraduate Research Scholarship (January 2023 - June 2023) by Banco Santander
 ◦ Collaborated with a research group in the Department of Theoretical Physics for six months, during which I developed my Bachelor’s thesis.
 
 
-Language used: Mathematica
+Language: Mathematica
+
+_______________________________________________________________________________________________________________________________________________
 
 Objetives:
 
