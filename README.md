@@ -2,7 +2,7 @@
 Bachelor’s thesis (57 pages) on the expanding geometry of the universe, its early thermodynamic stages up to nucleosynthesis, and the simulation of the evolution of the first light element abundances during this epoch with Mathematica.
 
 Final Score (Presentation and Report): 9.9/10.
-This Bachelor's thesis is part of the Double Degree of Physics and Mathematics at the University of Granada.
+This Bachelor's thesis is part of the Double Degree of Physics and Mathematics at the University of Granada. The project is in Spanish and I will include the English version eventually.
 
 Language used: Mathematica
 
